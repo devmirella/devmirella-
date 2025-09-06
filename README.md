@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Mirella!
+# 👩🏻‍💻 Olá, eu sou a Mirella!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💉 Técnica de Enfermagem em transição de carreira para **TI**  
